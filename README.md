@@ -1,6 +1,7 @@
 ## Olá, seja bem-vindo! :)
 
-# ![snake gif](https://github.com/your-user-name/projamandakaori/blob/output/github-contribution-grid-snake.gif)
+- 📖 Estudante da ETEC Maria Cristina Medeiros
+- ☁️ Informática para Internet
 
 <div align="center">
   <a href="https://github.com/projamandakaori">
