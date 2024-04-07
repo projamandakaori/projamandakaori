@@ -1,8 +1,7 @@
-## Olá, Bem-vindo!
+## Olá, seja bem-vindo! :)
 
-<a href="https://github.com/projamandakaori/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=projamandakaori&theme=buefy" />
-</a>
-<a href="https://github.com/projamandakaori/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=projamandakaori&layout=compact&langs_count=8&card_width=320&theme=buefy"/>
-</a>
+<div align="center">
+  <a href="https://github.com/projamandakaori">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=projamandakaori&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=projamandakaori&layout=compact&langs_count=7&theme=buefy"/>
+</div>
