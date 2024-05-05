@@ -1,7 +1,7 @@
 ## Olá, seja bem-vindo! :)
 
 - 📖 Estudante da ETEC Maria Cristina Medeiros
-- ☁️ Informática para Internet
+- 💻 Informática para Internet
 
 <div align="center">
   <a href="https://github.com/projamandakaori">
